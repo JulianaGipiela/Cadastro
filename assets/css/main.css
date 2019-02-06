@@ -1,0 +1,8 @@
+  .error{
+   			border-style: solid; 
+            border-color:red;
+        }
+
+.message-error{
+                    color: #ff0000;
+                }
