@@ -19,7 +19,7 @@
                     </div>
                 </div>  
                 <br />
-                <button type="button" class="btn btn-outline-primary" onClick="location='<?php echo base_url('Cadastro'); ?>';" >Novo Cadastro</button>
+                <button type="button" class="btn btn-outline-primary" onClick="location='<?php echo base_url('index.php/Cadastro'); ?>';" >Novo Cadastro</button>
             
 
 
